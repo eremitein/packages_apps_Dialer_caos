@@ -212,4 +212,12 @@
   <!-- Text for button to accept RTT request. [CHAR LIMIT=20] -->
   <string name="rtt_button_accept_request">Join RTT</string>
 
+  <!-- Call recording -->
+  <string name="call_recording_failed_message">Failed to start call recording</string>
+  <string name="call_recording_file_location">Saved call recording to <xliff:g id="filename">%s</xliff:g></string>
+  <string name="onscreenCallRecordText">Record call</string>
+  <string name="onscreenCallRecordingText">Recording call - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+  <string name="onscreenStopCallRecordText">Stop recording</string>
+  <string name="recording_time_text">Recording</string>
+
 </resources>
