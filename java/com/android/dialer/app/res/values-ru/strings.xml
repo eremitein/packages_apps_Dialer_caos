@@ -172,4 +172,6 @@
   <string name="view_conversation">Посмотреть</string>
   <string name="ec_data_deleted">Вызов удален. Посмотреть и удалить прикрепленные к нему файлы можно в приложении \"Сообщения\".</string>
   <string name="multiple_ec_data_deleted">Вызовы удалены. Посмотреть и удалить прикрепленные к ним файлы можно в приложении \"Сообщения\".</string>
+  <string name="call_recording_category_title">Запись звонков</string>
+  <string name="call_recording_format">Формат аудио-кодека</string>
 </resources>
