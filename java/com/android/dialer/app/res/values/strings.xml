@@ -718,4 +718,13 @@
   <!-- If a user deletes a call that has attachments (photo, message, ect) bundled with it, they need
         to be told that they need to go to the SMS app to delete the attachments. [CHAR LIMIT=NONE] -->
   <string name="multiple_ec_data_deleted">Calls deleted. View and delete attachments shared during calls in Messages.</string>
+
+  <!-- Call recording -->
+  <string name="call_recording_category_key" translatable="false">call_recording_category</string>
+  <string name="call_recording_category_title">Call recording</string>
+  <string name="call_recording_format_key" translatable="false">call_recording_format</string>
+  <string name="call_recording_format">Audio format</string>
+  <string name="wb_amr_format" translatable="false">AMR-WB</string>
+  <string name="aac_format" translatable="false">AAC</string>
+
 </resources>
