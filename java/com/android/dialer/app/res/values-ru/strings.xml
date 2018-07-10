@@ -174,4 +174,5 @@
   <string name="multiple_ec_data_deleted">Вызовы удалены. Посмотреть и удалить прикрепленные к ним файлы можно в приложении \"Сообщения\".</string>
   <string name="call_recording_category_title">Запись звонков</string>
   <string name="call_recording_format">Формат аудио-кодека</string>
+  <string name="auto_call_recording_title">Автоматическая запись</string>
 </resources>
