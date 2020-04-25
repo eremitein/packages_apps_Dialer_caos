@@ -65,4 +65,11 @@
   <string name="rtt_request_dialog_more_information">Функция RTT предназначена для пользователей с нарушениями слуха и речи.</string>
   <string name="rtt_button_decline_request">Нет</string>
   <string name="rtt_button_accept_request">Присоединиться</string>
+  <!-- Call recording -->
+  <string name="call_recording_failed_message">Не получилось начать запись</string>
+  <string name="call_recording_file_location">Сохранение записи в <xliff:g id="filename">%s</xliff:g></string>
+  <string name="onscreenCallRecordText">Запись звонка</string>
+  <string name="onscreenCallRecordingText">Запись - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+  <string name="onscreenStopCallRecordText">Остановить запись</string>
+  <string name="recording_time_text">Запись</string>
 </resources>
