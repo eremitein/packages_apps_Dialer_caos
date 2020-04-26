@@ -16,7 +16,7 @@
   -->
 <resources>
   <!-- Update to Theme.AppCompat.Light.NoActionBar once we no longer depend on ActionBars. -->
-  <style name="Dialer" parent="Theme.AppCompat.Light">
+  <style name="Dialer" parent="Theme.AppCompat">
     <!-- Used to automatically style all buttons in Dialer -->
     <item name="android:textAppearanceButton">@style/DialerButtonTextStyle</item>
     <item name="android:colorButtonNormal">?android:attr/colorPrimary</item>
@@ -50,12 +50,13 @@
 
   <!-- Used to style all Dialer's AlertDialogs. Every button is awarded this for free if the parent
      activity's theme extends from Dialer.ThemeBase(.NoActionBar) or doesn't specify a theme. -->
-  <style name="AlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+  <style name="AlertDialogTheme" parent="@android:style/Theme.DeviceDefault.Dialog.Alert">
     <item name="android:textColorPrimary">@color/dialer_primary_text_color</item>
     <!-- TODO(a bug): figure out why ?android:attr/colorPrimary doesn't work here -->
     <item name="android:colorAccent">@color/dialer_theme_color</item>
     <item name="colorAccent">@color/dialer_theme_color</item>
     <item name="android:textColorPrimary">@color/dialer_primary_text_color</item>
     <item name="android:textColorSecondary">@color/dialer_secondary_text_color</item>
+    <item name="android:background">@*android:color/primary_dark_device_default_dark</item>
   </style>
 </resources>

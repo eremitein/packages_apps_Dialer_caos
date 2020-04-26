@@ -34,7 +34,7 @@
   <style name="Dialer.Dark.ThemeBase">
     <!-- These values should be used to color all backgrounds. -->
     <item name="android:colorBackground">@*android:color/primary_dark_device_default_settings</item>
-    <item name="android:colorBackgroundFloating">@*android:color/primary_device_default_settings</item>
+    <item name="android:colorBackgroundFloating">@*android:color/primary_dark_device_default_dark</item>
 
     <!-- These values should be used to set text color. -->
     <!-- swap text colors. -->
@@ -58,8 +58,8 @@
     <!-- Dialer specific attributes. -->
     <item name="colorIcon">?android:attr/textColorSecondary</item>
     <item name="colorIconSecondary">?android:attr/textColorSecondary</item>
-    <item name="colorTextOnUnthemedDarkBackground">@*android:color/primary_device_default_settings</item>
-    <item name="colorIconOnUnthemedDarkBackground">@*android:color/primary_device_default_settings</item>
+    <item name="colorTextOnUnthemedDarkBackground">@*android:color/primary_dark_device_default_dark</item>
+    <item name="colorIconOnUnthemedDarkBackground">@*android:color/primary_dark_device_default_dark</item>
     <item name="colorPrimary20pct">@color/dialer_dark_theme_color_20pct</item>
   </style>
 </resources>
