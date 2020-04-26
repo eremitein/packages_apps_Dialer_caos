@@ -63,8 +63,8 @@
     <!-- Dialer specific attributes. -->
     <item name="colorIcon">@color/google_grey_700</item>
     <item name="colorIconSecondary">@color/google_grey_400</item>
-    <item name="colorTextOnUnthemedDarkBackground">@android:color/white</item>
-    <item name="colorIconOnUnthemedDarkBackground">@android:color/white</item>
+    <item name="colorTextOnUnthemedDarkBackground">@*android:color/primary_device_default_settings</item>
+    <item name="colorIconOnUnthemedDarkBackground">@*android:color/primary_device_default_settings</item>
     <item name="colorMobileTerminatingChatText">@color/google_grey_900</item>
     <item name="colorMobileTerminatingChatBackground">@color/google_grey_100</item>
     <item name="colorMobileOriginatingChatText">@color/google_blue_900</item>
