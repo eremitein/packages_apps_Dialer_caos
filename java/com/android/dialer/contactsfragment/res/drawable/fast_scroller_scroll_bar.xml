@@ -19,14 +19,14 @@
     <shape android:shape="rectangle">
       <solid android:color="?android:attr/colorPrimary"/>
       <size android:height="32dp" android:width="4dp"/>
-      <corners android:radius="2dp"/>
+      <corners android:radius="4dp"/>
     </shape>
   </item>
   <item>
     <shape android:shape="rectangle">
       <solid android:color="?android:attr/textColorSecondary"/>
       <size android:height="32dp" android:width="4dp"/>
-      <corners android:radius="2dp"/>
+      <corners android:radius="4dp"/>
     </shape>
   </item>
 </selector>
