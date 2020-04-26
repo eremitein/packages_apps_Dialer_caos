@@ -46,7 +46,7 @@
   <dimen name="gallery_item_selected_padding">6dp</dimen>
   <dimen name="gallery_item_padding">3dp</dimen>
   <dimen name="gallery_check_size">48dp</dimen>
-  <dimen name="gallery_item_corner_radius">2dp</dimen>
+  <dimen name="gallery_item_corner_radius">4dp</dimen>
 
   <!-- Permissions view -->
   <dimen name="permission_image_size">72dp</dimen>
