@@ -44,7 +44,7 @@
   <color name="call_subject_history_icon">#000000</color>
 
   <!-- Divider line on the call subject dialog. -->
-  <color name="call_subject_divider">#d8d8d8</color>
+  <color name="call_subject_divider">@android:color/transparent</color>
 
   <!-- Text color for the SEND & CALL button on the call subject dialog. -->
   <color name="call_subject_button">#00c853</color>
