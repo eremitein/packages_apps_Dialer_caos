@@ -100,7 +100,7 @@
         android:layout_height="match_parent"
         android:layout_margin="@dimen/search_bar_margin"
         android:layout_gravity="center_vertical"
-        android:contentDescription="@string/main_remove_contact"
+        android:contentDescription="@string/remove_contact"
         android:importantForAccessibility="no">
 
       <!-- We set this view's visibility to gone instead of the parent because if we hide remove
@@ -127,7 +127,7 @@
             android:id="@+id/remove_view_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/main_remove_contact"
+            android:text="@string/remove_contact"
             android:textColor="?colorTextOnUnthemedDarkBackground"
             android:textSize="16sp"/>
       </LinearLayout>
